@@ -1,0 +1,6 @@
+doctor_id,doctor_name,department,specialization,contact_number,email,room_number,availability,risk_category
+DOC101,Dr. Rajesh Kumar,Critical Care Unit,Emergency Medicine,+91 9876543210,rajesh.kumar@vitaguardhospital.com,ICU-04,24/7 Emergency,CRITICAL
+DOC102,Dr. Priya Sharma,Internal Medicine,General Physician,+91 9876543211,priya.sharma@vitaguardhospital.com,MED-12,Day Shift,HIGH
+DOC103,Dr. Anil Verma,General Medicine,Primary Care,+91 9876543212,anil.verma@vitaguardhospital.com,GEN-08,General OPD,NORMAL
+DOC104,Dr. Meera Nair,Cardiology,Cardiac Specialist,+91 9876543213,meera.nair@vitaguardhospital.com,CARD-02,On Call,HIGH
+DOC105,Dr. Arjun Rao,Pulmonology,Respiratory Specialist,+91 9876543214,arjun.rao@vitaguardhospital.com,PUL-06,Night Shift,CRITICAL

@@ -1,0 +1,121 @@
+patient_id,patient_name,age,gender,heart_rate,spo2,temperature,respiratory_rate,blood_pressure_systolic,blood_pressure_diastolic,predicted_condition,risk_level
+PT1000,Rahul Sharma,41,Male,125,88,98.1,28,131,93,Respiratory Distress,2
+PT1001,Aditi Singh,33,Male,78,99,97.1,12,123,70,Normal,0
+PT1002,Rohan Mehta,29,Female,130,92,100.4,18,175,94,Cardiac Risk,1
+PT1003,Aditi Singh,37,Male,124,96,100.0,20,146,108,Cardiac Risk,1
+PT1004,Kiran Kumar,34,Female,135,89,98.2,26,139,81,Respiratory Distress,2
+PT1005,Ananya Rao,81,Female,129,83,98.9,30,142,82,Respiratory Distress,2
+PT1006,Ananya Rao,85,Female,153,80,104.2,39,188,97,Critical Multi-Organ Risk,4
+PT1007,Priya Verma,65,Female,114,95,99.1,19,175,108,Cardiac Risk,1
+PT1008,Rahul Sharma,85,Female,129,79,100.5,33,135,77,Respiratory Distress,2
+PT1009,Priya Verma,79,Male,134,82,104.7,41,151,109,Critical Multi-Organ Risk,4
+PT1010,Sneha Nair,36,Female,140,71,102.7,39,158,118,Critical Multi-Organ Risk,4
+PT1011,Arjun Rao,85,Female,97,92,102.6,26,123,79,Fever / Infection,3
+PT1012,Vikram Patel,67,Male,116,96,104.4,20,117,80,Fever / Infection,3
+PT1013,Arjun Rao,23,Female,136,96,98.5,22,140,94,Cardiac Risk,1
+PT1014,Meera Joshi,62,Female,155,74,104.1,31,179,119,Critical Multi-Organ Risk,4
+PT1015,Ananya Rao,73,Male,107,91,102.7,24,116,81,Fever / Infection,3
+PT1016,Vikram Patel,42,Male,98,95,103.1,19,115,93,Fever / Infection,3
+PT1017,Priya Verma,25,Female,104,81,99.8,29,140,83,Respiratory Distress,2
+PT1018,Rohan Mehta,37,Male,98,97,104.5,25,130,90,Fever / Infection,3
+PT1019,Sneha Nair,35,Female,126,97,98.7,20,173,90,Cardiac Risk,1
+PT1020,Priya Verma,25,Male,138,94,100.4,19,156,106,Cardiac Risk,1
+PT1021,Aditi Singh,50,Male,134,86,100.3,35,140,82,Respiratory Distress,2
+PT1022,Rohan Mehta,73,Female,119,93,99.3,23,141,90,Cardiac Risk,1
+PT1023,Ananya Rao,46,Male,122,85,100.4,36,150,86,Respiratory Distress,2
+PT1024,Priya Verma,51,Male,80,97,97.7,15,110,77,Normal,0
+PT1025,Priya Verma,71,Male,90,97,98.0,13,123,82,Normal,0
+PT1026,Vikram Patel,81,Female,107,91,103.5,20,119,75,Fever / Infection,3
+PT1027,Ananya Rao,82,Male,127,93,99.4,20,141,90,Cardiac Risk,1
+PT1028,Aditi Singh,46,Female,101,90,101.9,22,131,82,Fever / Infection,3
+PT1029,Aditi Singh,75,Female,108,78,100.7,36,148,89,Respiratory Distress,2
+PT1030,Vikram Patel,38,Male,142,74,103.6,30,178,119,Critical Multi-Organ Risk,4
+PT1031,Priya Verma,44,Female,114,95,99.5,19,175,91,Cardiac Risk,1
+PT1032,Kiran Kumar,29,Male,72,97,97.6,18,113,78,Normal,0
+PT1033,Rohan Mehta,78,Female,75,100,98.9,16,116,81,Normal,0
+PT1034,Kiran Kumar,83,Male,141,77,104.1,38,185,101,Critical Multi-Organ Risk,4
+PT1035,Ananya Rao,37,Male,107,97,102.1,28,122,88,Fever / Infection,3
+PT1036,Vikram Patel,37,Female,109,89,99.9,36,124,83,Respiratory Distress,2
+PT1037,Meera Joshi,34,Female,130,95,98.4,21,150,103,Cardiac Risk,1
+PT1038,Meera Joshi,75,Female,112,83,99.0,36,120,85,Respiratory Distress,2
+PT1039,Ananya Rao,24,Male,107,95,102.8,22,131,77,Fever / Infection,3
+PT1040,Vikram Patel,32,Female,73,98,97.1,18,115,74,Normal,0
+PT1041,Ananya Rao,73,Female,109,86,100.8,40,142,85,Respiratory Distress,2
+PT1042,Rohan Mehta,45,Male,78,96,97.5,12,112,82,Normal,0
+PT1043,Meera Joshi,50,Female,127,78,104.6,44,150,105,Critical Multi-Organ Risk,4
+PT1044,Rahul Sharma,38,Male,102,86,100.1,28,125,83,Respiratory Distress,2
+PT1045,Vikram Patel,61,Female,124,96,99.9,22,168,106,Cardiac Risk,1
+PT1046,Sneha Nair,24,Female,116,78,98.0,31,136,90,Respiratory Distress,2
+PT1047,Sneha Nair,77,Male,86,99,98.1,15,119,81,Normal,0
+PT1048,Rahul Sharma,47,Male,108,84,101.0,26,146,79,Respiratory Distress,2
+PT1049,Rohan Mehta,77,Male,110,78,98.3,37,147,91,Respiratory Distress,2
+PT1050,Priya Verma,27,Female,129,80,98.5,39,120,83,Respiratory Distress,2
+PT1051,Vikram Patel,63,Male,132,71,104.9,39,163,106,Critical Multi-Organ Risk,4
+PT1052,Rahul Sharma,70,Male,105,85,98.8,31,127,91,Respiratory Distress,2
+PT1053,Rohan Mehta,33,Male,109,84,99.8,37,120,84,Respiratory Distress,2
+PT1054,Rohan Mehta,41,Male,86,100,97.8,14,125,72,Normal,0
+PT1055,Aditi Singh,76,Male,88,100,97.3,16,110,80,Normal,0
+PT1056,Meera Joshi,25,Male,66,97,98.3,12,122,77,Normal,0
+PT1057,Meera Joshi,53,Male,80,98,97.0,18,112,81,Normal,0
+PT1058,Sneha Nair,30,Male,148,85,102.8,32,166,102,Critical Multi-Organ Risk,4
+PT1059,Aditi Singh,85,Male,107,91,102.7,28,124,76,Fever / Infection,3
+PT1060,Aditi Singh,40,Male,75,98,98.3,17,119,79,Normal,0
+PT1061,Sneha Nair,83,Female,66,99,97.5,17,113,81,Normal,0
+PT1062,Sneha Nair,58,Female,129,85,99.4,28,148,92,Respiratory Distress,2
+PT1063,Arjun Rao,82,Male,65,98,97.9,18,124,74,Normal,0
+PT1064,Aditi Singh,31,Female,110,93,99.9,22,163,94,Cardiac Risk,1
+PT1065,Vikram Patel,68,Male,72,99,98.8,15,122,70,Normal,0
+PT1066,Priya Verma,79,Male,107,94,103.5,24,126,87,Fever / Infection,3
+PT1067,Rahul Sharma,22,Female,120,90,99.0,37,123,81,Respiratory Distress,2
+PT1068,Rohan Mehta,69,Male,104,84,99.2,27,131,88,Respiratory Distress,2
+PT1069,Arjun Rao,35,Female,103,88,98.9,29,127,83,Respiratory Distress,2
+PT1070,Sneha Nair,69,Male,132,92,100.0,24,175,107,Cardiac Risk,1
+PT1071,Rahul Sharma,74,Male,79,100,98.5,17,119,77,Normal,0
+PT1072,Sneha Nair,82,Female,131,94,98.7,22,156,102,Cardiac Risk,1
+PT1073,Kiran Kumar,72,Male,98,92,103.3,19,121,91,Fever / Infection,3
+PT1074,Ananya Rao,64,Male,119,97,102.5,26,121,82,Fever / Infection,3
+PT1075,Arjun Rao,33,Female,120,81,99.1,31,148,75,Respiratory Distress,2
+PT1076,Aditi Singh,48,Female,107,94,102.2,18,130,83,Fever / Infection,3
+PT1077,Kiran Kumar,49,Female,110,94,100.2,24,165,110,Cardiac Risk,1
+PT1078,Kiran Kumar,24,Male,108,78,99.3,40,150,93,Respiratory Distress,2
+PT1079,Ananya Rao,72,Male,94,100,98.7,15,117,82,Normal,0
+PT1080,Rahul Sharma,41,Male,138,97,98.3,25,145,107,Cardiac Risk,1
+PT1081,Meera Joshi,51,Female,107,97,99.8,20,180,98,Cardiac Risk,1
+PT1082,Rohan Mehta,34,Male,67,98,98.0,16,116,76,Normal,0
+PT1083,Sneha Nair,22,Female,125,79,105.0,38,170,115,Critical Multi-Organ Risk,4
+PT1084,Rohan Mehta,52,Male,142,77,102.1,43,195,115,Critical Multi-Organ Risk,4
+PT1085,Sneha Nair,46,Female,80,99,97.2,13,123,75,Normal,0
+PT1086,Rohan Mehta,65,Male,87,99,97.7,15,116,70,Normal,0
+PT1087,Sneha Nair,85,Female,117,94,99.9,21,154,104,Cardiac Risk,1
+PT1088,Rahul Sharma,35,Male,131,87,98.6,32,135,88,Respiratory Distress,2
+PT1089,Rahul Sharma,28,Male,101,90,104.4,20,128,76,Fever / Infection,3
+PT1090,Priya Verma,79,Male,117,95,103.6,19,144,80,Fever / Infection,3
+PT1091,Kiran Kumar,81,Male,107,94,99.7,24,163,100,Cardiac Risk,1
+PT1092,Sneha Nair,22,Female,67,98,97.2,15,113,78,Normal,0
+PT1093,Meera Joshi,61,Female,127,79,98.1,40,126,86,Respiratory Distress,2
+PT1094,Sneha Nair,63,Female,128,97,100.2,18,180,103,Cardiac Risk,1
+PT1095,Ananya Rao,70,Female,66,99,97.1,12,118,73,Normal,0
+PT1096,Rohan Mehta,56,Male,121,87,98.1,35,149,83,Respiratory Distress,2
+PT1097,Rohan Mehta,30,Female,125,77,102.3,44,199,107,Critical Multi-Organ Risk,4
+PT1098,Aditi Singh,38,Male,110,92,101.0,29,124,79,Fever / Infection,3
+PT1099,Arjun Rao,62,Male,129,83,100.4,27,136,81,Respiratory Distress,2
+PT1100,Vikram Patel,74,Female,109,97,98.1,26,174,100,Cardiac Risk,1
+PT1101,Kiran Kumar,31,Male,73,100,97.2,12,123,77,Normal,0
+PT1102,Rohan Mehta,39,Female,131,95,99.6,21,174,93,Cardiac Risk,1
+PT1103,Vikram Patel,56,Male,123,82,100.2,31,134,82,Respiratory Distress,2
+PT1104,Sneha Nair,41,Male,123,96,98.5,19,165,98,Cardiac Risk,1
+PT1105,Priya Verma,81,Male,66,96,97.0,18,117,77,Normal,0
+PT1106,Priya Verma,51,Male,107,78,98.6,31,149,77,Respiratory Distress,2
+PT1107,Priya Verma,55,Male,119,90,101.4,27,137,94,Fever / Infection,3
+PT1108,Sneha Nair,69,Male,75,97,97.1,14,111,79,Normal,0
+PT1109,Kiran Kumar,74,Female,123,80,99.9,27,126,76,Respiratory Distress,2
+PT1110,Vikram Patel,74,Female,68,99,98.3,13,112,80,Normal,0
+PT1111,Priya Verma,74,Female,118,88,98.9,26,129,93,Respiratory Distress,2
+PT1112,Sneha Nair,24,Male,119,95,103.3,24,138,87,Fever / Infection,3
+PT1113,Kiran Kumar,42,Male,108,91,103.9,24,133,86,Fever / Infection,3
+PT1114,Aditi Singh,23,Female,108,96,98.4,24,145,108,Cardiac Risk,1
+PT1115,Arjun Rao,43,Female,129,81,102.8,35,154,98,Critical Multi-Organ Risk,4
+PT1116,Aditi Singh,60,Female,113,92,100.4,25,160,91,Cardiac Risk,1
+PT1117,Vikram Patel,42,Male,85,97,98.2,16,116,77,Normal,0
+PT1118,Sneha Nair,73,Male,95,100,97.3,14,113,72,Normal,0
+PT1119,Rohan Mehta,26,Female,86,98,97.2,16,124,78,Normal,0
