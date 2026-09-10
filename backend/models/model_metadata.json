@@ -1,0 +1,36 @@
+{
+  "model_type": "RandomForestClassifier",
+  "n_estimators": 250,
+  "training_samples": 11200,
+  "testing_samples": 2800,
+  "total_samples": 14000,
+  "accuracy_pct": 94.96,
+  "precision_pct": 94.95,
+  "recall_pct": 94.96,
+  "f1_score": 0.9496,
+  "feature_importances": {
+    "temperature": 22.407864526932933,
+    "spo2": 19.287463292232104,
+    "blood_pressure_systolic": 15.788036883571674,
+    "heart_rate": 15.07337360250066,
+    "blood_pressure_diastolic": 11.868171912227046,
+    "respiratory_rate": 10.519573105018514,
+    "age": 5.0555166775170735
+  },
+  "disease_cohorts": [
+    "Healthy Resting Baseline",
+    "Common Cold & Viral URTI",
+    "Tension Headache & Migraine",
+    "Mild Dehydration & Gastritis",
+    "Allergic Rhinitis & Seasonal Allergy",
+    "Hypertensive Tachycardia",
+    "Acute Coronary Ischemia",
+    "Complete Heart Block Bradycardia (Rare)",
+    "ARDS Refractory Hypoxia",
+    "COPD & Asthma Exacerbation",
+    "Febrile Pneumonia Sepsis",
+    "Malignant Hyperthermia (Rare)",
+    "Septic Shock Multi-Organ Failure",
+    "Hemorrhagic Trauma Shock (Rare)"
+  ]
+}
